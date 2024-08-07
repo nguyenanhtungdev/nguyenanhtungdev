@@ -115,7 +115,11 @@
  
 <p align="center">
     &emsp;
-    <a href="#"><img alt="" src="https://img.shields.io/badge/SQL%20Server-%234F5D81.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%234F5D81.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.mongodb.com/"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"></a>
+    &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300A1E0.svg?style=plastic&logo=mysql&logoColor=white"></a>
 </p>
 
 <br> 
