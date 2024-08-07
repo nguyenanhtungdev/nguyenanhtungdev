@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://iuh.edu.vn/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Software Engineering] at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
