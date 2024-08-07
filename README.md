@@ -115,7 +115,7 @@
  
 <p align="center">
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="" src="https://img.shields.io/badge/SQL%20Server-%234F5D81.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"></a>
 </p>
 
 <br> 
