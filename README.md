@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Software Engineering] at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
+- :school: I am a `Junior` at <i>Software Technology</i> at [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
